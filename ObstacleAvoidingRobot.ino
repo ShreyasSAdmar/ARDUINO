@@ -1,5 +1,3 @@
-
-
 #include <AFMotor.h>                              //Import library to control motor shield
 #include <Servo.h>                                //Import library to control the servo
 
